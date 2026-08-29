@@ -1,10 +1,10 @@
 # Hi, I'm Jiarui (Sylvia) Liu
 
-I am an Agribusiness student at China Agricultural University and Oklahoma State University with a minor in Data Science. My work connects quantitative research, business analytics, and data storytelling.
+I am an Agribusiness student at Oklahoma State University with a minor in Data Science. Before joining OSU, I studied Agricultural and Forestry Economics and Management at China Agricultural University.
 
-I am especially interested in turning raw and complex data into clear evidence through an end-to-end workflow:
+My work connects quantitative research, business analytics, and data storytelling. I am especially interested in turning raw and complex data into clear evidence through an end-to-end workflow:
 
-**Data collection -> Data cleaning -> Statistical analysis -> Visualization -> Research communication**
+**Data Collection → Data Cleaning → Statistical Analysis → Visualization → Research Communication**
 
 ## Featured Projects
 
