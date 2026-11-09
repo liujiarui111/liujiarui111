@@ -32,7 +32,7 @@ Excel-based integration and quality control of a 120-variable village-level pane
 
 **Skills:** Excel, multi-source data integration, temporal matching, data cleaning, quality control
 
-### [Older-Adult Livestream Trust Analysis](https://github.com/liujiarui111/older-adult-livestream-trust-analysis)
+### [Confidential Survey and PLS-SEM Project](https://github.com/liujiarui111/confidential-survey-plssem-project)
 
 First-author quantitative research project demonstrating survey preparation and PLS-SEM skills while protecting unreleased manuscript content and participant data.
 
